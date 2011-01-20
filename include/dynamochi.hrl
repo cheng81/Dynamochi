@@ -1,0 +1,2 @@
+-record (dynamochi_reg, {context, doc_root = "", handler}).
+-record (dynamochi_req, {method, path, request}).
